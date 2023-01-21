@@ -1,12 +1,5 @@
 module.exports = {
   branches: [
-    'main',
-    "master",
-    {
-      name: 'beta',
-      prerelease: true
-    },
-    'next',
     'refs/tags/**'
   ],
   plugins: [
