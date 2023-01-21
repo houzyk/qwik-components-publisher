@@ -1,7 +1,7 @@
 {
   "name": "qwik-components-publisher",
   "version": "0.0.9",
-  "description": "Create a reusable Qwik component library",
+  "description": "POC",
   "main": "./lib/index.qwik.mjs",
   "qwik": "./lib/index.qwik.mjs",
   "types": "./lib-types/index.d.ts",
