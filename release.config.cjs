@@ -1,5 +1,7 @@
 module.exports = {
   branches: [
+    '**',
+    "master",
     'refs/tags/**'
   ],
   plugins: [
