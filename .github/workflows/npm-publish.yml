@@ -25,6 +25,7 @@ jobs:
           registry-url: https://registry.npmjs.org/
       - run: npm i --loglevel verbose
       - run: npm run build
+      - run: git add . && git commit -m "[actions][chore] Version Patch"
       - run: npm version patch
       - run: npm publish
         env:
