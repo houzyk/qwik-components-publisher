@@ -1,9 +1,4 @@
 module.exports = {
-  branches: [
-    '**',
-    "master",
-    'refs/tags/**'
-  ],
   plugins: [
     '@semantic-release/commit-analyzer',
     '@semantic-release/release-notes-generator',
