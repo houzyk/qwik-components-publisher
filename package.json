@@ -1,6 +1,6 @@
 {
   "name": "qwik-components-publisher",
-  "version": "0.0.0-semantic-release",
+  "version": "0.0.13",
   "description": "POC",
   "main": "./lib/index.qwik.mjs",
   "qwik": "./lib/index.qwik.mjs",
